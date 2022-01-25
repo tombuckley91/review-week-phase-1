@@ -20,3 +20,11 @@ var students = [
     hidden: true,
   },
 ]; // 3
+
+for (var i = 0; i < students.length; i++) {
+  var student = students[i];
+
+  if (student.hidden) {
+    console.log("Hey " + student.name + "! Wake up!!");
+  }
+}
