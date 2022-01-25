@@ -2,4 +2,8 @@
 
 Just some JavaScript fundamentals
 
-## WOOO BRITISH AIRWAYS IS COOL!
+## JavaScript Data Types
+
+- String (`"" ''`)
+- Number (`4`)
+- Boolean (`true` or `false)
